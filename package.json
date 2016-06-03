@@ -1,0 +1,14 @@
+{
+  "name": "overwatch-suggest",
+  "description": "suggest party builds for overwatch",
+  "license": "Apache 2.0",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/cynicaloptimist/overwatch-suggest"
+  },
+  "devDependencies": {
+    "tsd": "^0.6.5",
+    "typescript": "^1.8.10",
+    "typings": "^1.0.4"
+  }
+}
