@@ -1,9 +1,13 @@
 {
   "name": "overwatch-suggest",
-  "description": "suggest party builds for overwatch",
-  "license": "Apache 2.0",
+  "description": "suggest party builds for overwatch based on enemy and friendly team compositions, map selection",
+  "license": "Apache-2.0",
   "repository": {
-      "type": "git",
-      "url": "https://github.com/cynicaloptimist/overwatch-suggest"
+    "type": "git",
+    "url": "https://github.com/cynicaloptimist/overwatch-suggest"
+  },
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "knockout": "^3.4.0"
   }
 }
