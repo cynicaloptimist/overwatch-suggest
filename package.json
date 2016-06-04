@@ -5,10 +5,5 @@
   "repository": {
       "type": "git",
       "url": "https://github.com/cynicaloptimist/overwatch-suggest"
-  },
-  "devDependencies": {
-    "tsd": "^0.6.5",
-    "typescript": "^1.8.10",
-    "typings": "^1.0.4"
   }
 }
